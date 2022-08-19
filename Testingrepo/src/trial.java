@@ -20,7 +20,7 @@ public class trial {
 			
 		}
 		if(found==0) {
-			System.out.println(" Number does not Exist");
+			System.out.println(" Changes from github");
 		}
 			
 
